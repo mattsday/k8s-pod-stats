@@ -1,0 +1,5 @@
+redis:
+  stats:
+    id: count
+  date:
+    id: date_record
